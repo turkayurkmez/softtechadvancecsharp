@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\bin\Debug\net6.0\ComplexTypes.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\bin\Debug\net6.0\ComplexTypes.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\bin\Debug\net6.0\ComplexTypes.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\bin\Debug\net6.0\ComplexTypes.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\bin\Debug\net6.0\ComplexTypes.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\obj\Debug\net6.0\ComplexTypes.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\obj\Debug\net6.0\ComplexTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\obj\Debug\net6.0\ComplexTypes.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\obj\Debug\net6.0\ComplexTypes.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\obj\Debug\net6.0\ComplexTypes.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\obj\Debug\net6.0\ComplexTypes.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\obj\Debug\net6.0\refint\ComplexTypes.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\obj\Debug\net6.0\ComplexTypes.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\obj\Debug\net6.0\ComplexTypes.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\ComplexTypes\ComplexTypes\obj\Debug\net6.0\ref\ComplexTypes.dll
