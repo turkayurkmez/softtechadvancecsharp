@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\bin\Debug\net6.0-windows\enumSample.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\bin\Debug\net6.0-windows\enumSample.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\bin\Debug\net6.0-windows\enumSample.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\bin\Debug\net6.0-windows\enumSample.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\bin\Debug\net6.0-windows\enumSample.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\enumSample.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\enumSample.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\enumSample.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\enumSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\enumSample.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\enumSample.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\enumSample.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\enumSample.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\refint\enumSample.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\enumSample.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\enumSample.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\enumSample\enumSample\obj\Debug\net6.0-windows\ref\enumSample.dll
