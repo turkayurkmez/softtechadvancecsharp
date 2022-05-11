@@ -40,8 +40,9 @@ namespace MethodOverloading
             }
         }
 
-        public double optionalGetArea(double unitLength1, double unitLength2 = 1, string geometry = "square")
+        public double optionalGetArea(double unitLength1, double? unitLength2 =null, string geometry = "square")
         {
+            
             switch (geometry)
             {
                 case "square":
@@ -49,9 +50,9 @@ namespace MethodOverloading
                 case "circle":
                     return Math.PI * unitLength1 * unitLength1;
                 case "rectangle":
-                    return unitLength1 * unitLength2;
+                    return unitLength1 * unitLength2.Value;
                 case "triangle":
-                    return unitLength1 * unitLength2 / 2;
+                    return unitLength1 * unitLength2.Value / 2;
                 default:
                     return 0;
             }
