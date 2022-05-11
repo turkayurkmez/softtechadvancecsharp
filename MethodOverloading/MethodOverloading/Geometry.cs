@@ -39,5 +39,22 @@ namespace MethodOverloading
 
             }
         }
+
+        public double optionalGetArea(double unitLength1, double unitLength2 = 1, string geometry = "square")
+        {
+            switch (geometry)
+            {
+                case "square":
+                    return unitLength1 * unitLength1;
+                case "circle":
+                    return Math.PI * unitLength1 * unitLength1;
+                case "rectangle":
+                    return unitLength1 * unitLength2;
+                case "triangle":
+                    return unitLength1 * unitLength2 / 2;
+                default:
+                    return 0;
+            }
+        }
     }
 }
