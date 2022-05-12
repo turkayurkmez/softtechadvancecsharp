@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\bin\Debug\net6.0\LockingResource.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\bin\Debug\net6.0\LockingResource.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\bin\Debug\net6.0\LockingResource.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\bin\Debug\net6.0\LockingResource.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\bin\Debug\net6.0\LockingResource.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\obj\Debug\net6.0\LockingResource.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\obj\Debug\net6.0\LockingResource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\obj\Debug\net6.0\LockingResource.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\obj\Debug\net6.0\LockingResource.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\obj\Debug\net6.0\LockingResource.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\obj\Debug\net6.0\LockingResource.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\obj\Debug\net6.0\refint\LockingResource.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\obj\Debug\net6.0\LockingResource.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\obj\Debug\net6.0\LockingResource.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\LockingResource\obj\Debug\net6.0\ref\LockingResource.dll
