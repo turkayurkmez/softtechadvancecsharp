@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bo/Iq7NKzW1BxjA4ZbagkP1ln10wrsQiYVUlBowudk6mbGm+UBYdy8zqi6z+3YGXdhyljbY1uklGlPPA0a6acQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Softtech\\Ileri C#\\PluginArchitect\\Display.Windows\\Display.Windows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

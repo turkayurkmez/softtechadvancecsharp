@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\bin\Debug\net6.0\introDynamic.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\bin\Debug\net6.0\introDynamic.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\bin\Debug\net6.0\introDynamic.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\bin\Debug\net6.0\introDynamic.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\bin\Debug\net6.0\introDynamic.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\obj\Debug\net6.0\introDynamic.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\obj\Debug\net6.0\introDynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\obj\Debug\net6.0\introDynamic.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\obj\Debug\net6.0\introDynamic.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\obj\Debug\net6.0\introDynamic.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\obj\Debug\net6.0\introDynamic.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\obj\Debug\net6.0\refint\introDynamic.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\obj\Debug\net6.0\introDynamic.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\obj\Debug\net6.0\introDynamic.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\DynamicConcept\introDynamic\obj\Debug\net6.0\ref\introDynamic.dll

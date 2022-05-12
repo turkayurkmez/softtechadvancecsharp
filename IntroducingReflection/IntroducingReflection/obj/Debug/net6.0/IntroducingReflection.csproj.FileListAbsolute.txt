@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\bin\Debug\net6.0\IntroducingReflection.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\bin\Debug\net6.0\IntroducingReflection.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\bin\Debug\net6.0\IntroducingReflection.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\bin\Debug\net6.0\IntroducingReflection.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\bin\Debug\net6.0\IntroducingReflection.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\obj\Debug\net6.0\IntroducingReflection.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\obj\Debug\net6.0\IntroducingReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\obj\Debug\net6.0\IntroducingReflection.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\obj\Debug\net6.0\IntroducingReflection.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\obj\Debug\net6.0\IntroducingReflection.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\obj\Debug\net6.0\IntroducingReflection.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\obj\Debug\net6.0\refint\IntroducingReflection.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\obj\Debug\net6.0\IntroducingReflection.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\obj\Debug\net6.0\IntroducingReflection.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\IntroducingReflection\IntroducingReflection\obj\Debug\net6.0\ref\IntroducingReflection.dll

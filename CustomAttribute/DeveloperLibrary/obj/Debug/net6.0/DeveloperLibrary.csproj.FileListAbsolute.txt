@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\bin\Debug\net6.0\DeveloperLibrary.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\bin\Debug\net6.0\DeveloperLibrary.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\bin\Debug\net6.0\DeveloperLibrary.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\obj\Debug\net6.0\DeveloperLibrary.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\obj\Debug\net6.0\DeveloperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\obj\Debug\net6.0\DeveloperLibrary.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\obj\Debug\net6.0\DeveloperLibrary.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\obj\Debug\net6.0\DeveloperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\obj\Debug\net6.0\DeveloperLibrary.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\obj\Debug\net6.0\refint\DeveloperLibrary.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\obj\Debug\net6.0\DeveloperLibrary.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\CustomAttribute\DeveloperLibrary\obj\Debug\net6.0\ref\DeveloperLibrary.dll
