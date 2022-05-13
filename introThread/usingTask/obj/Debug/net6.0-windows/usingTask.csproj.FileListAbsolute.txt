@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\bin\Debug\net6.0-windows\usingTask.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\bin\Debug\net6.0-windows\usingTask.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\bin\Debug\net6.0-windows\usingTask.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\bin\Debug\net6.0-windows\usingTask.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\bin\Debug\net6.0-windows\usingTask.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\usingTask.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\usingTask.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\usingTask.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\usingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\usingTask.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\usingTask.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\usingTask.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\usingTask.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\refint\usingTask.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\usingTask.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\usingTask.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\introThread\usingTask\obj\Debug\net6.0-windows\ref\usingTask.dll

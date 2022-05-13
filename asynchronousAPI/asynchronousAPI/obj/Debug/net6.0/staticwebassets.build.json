@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TQCRN5plfpeKXqsEW9XO5F4no8kHBw/O+zHMXeFZTqE=",
+  "Source": "asynchronousAPI",
+  "BasePath": "_content/asynchronousAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,8 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\AppDomainSample\usingDomain\bin\Debug\usingDomain.exe.config
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\AppDomainSample\usingDomain\bin\Debug\usingDomain.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\AppDomainSample\usingDomain\bin\Debug\usingDomain.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\AppDomainSample\usingDomain\obj\Debug\usingDomain.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\AppDomainSample\usingDomain\obj\Debug\usingDomain.csproj.SuggestedBindingRedirects.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\AppDomainSample\usingDomain\obj\Debug\usingDomain.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\AppDomainSample\usingDomain\obj\Debug\usingDomain.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\AppDomainSample\usingDomain\obj\Debug\usingDomain.pdb

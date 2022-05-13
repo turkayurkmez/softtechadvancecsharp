@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\bin\Debug\net6.0\Parallelism.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\bin\Debug\net6.0\Parallelism.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\bin\Debug\net6.0\Parallelism.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\bin\Debug\net6.0\Parallelism.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\bin\Debug\net6.0\Parallelism.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\obj\Debug\net6.0\Parallelism.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\obj\Debug\net6.0\Parallelism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\obj\Debug\net6.0\Parallelism.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\obj\Debug\net6.0\Parallelism.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\obj\Debug\net6.0\Parallelism.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\obj\Debug\net6.0\Parallelism.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\obj\Debug\net6.0\refint\Parallelism.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\obj\Debug\net6.0\Parallelism.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\obj\Debug\net6.0\Parallelism.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\Parallelism\Parallelism\obj\Debug\net6.0\ref\Parallelism.dll

@@ -22,6 +22,7 @@ namespace LockingResource
                 }
             Monitor.Exit(_lock);
             //}
+           
         }
     }
 }

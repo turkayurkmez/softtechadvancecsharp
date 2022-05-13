@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\bin\Debug\net6.0\another.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\bin\Debug\net6.0\another.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\bin\Debug\net6.0\another.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\bin\Debug\net6.0\another.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\bin\Debug\net6.0\another.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\obj\Debug\net6.0\another.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\obj\Debug\net6.0\another.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\obj\Debug\net6.0\another.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\obj\Debug\net6.0\another.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\obj\Debug\net6.0\another.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\obj\Debug\net6.0\another.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\obj\Debug\net6.0\refint\another.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\obj\Debug\net6.0\another.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\obj\Debug\net6.0\another.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Ileri C#\usingAppDomain\another\obj\Debug\net6.0\ref\another.dll

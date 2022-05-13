@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "introThread", "introThread\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockingResource", "LockingResource\LockingResource.csproj", "{0856732A-84B3-4C14-A649-6DF77A9BD7F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usingTask", "usingTask\usingTask.csproj", "{7CF1DFB5-91F0-47CC-82C1-F5CEDF82118C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0856732A-84B3-4C14-A649-6DF77A9BD7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0856732A-84B3-4C14-A649-6DF77A9BD7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0856732A-84B3-4C14-A649-6DF77A9BD7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF1DFB5-91F0-47CC-82C1-F5CEDF82118C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF1DFB5-91F0-47CC-82C1-F5CEDF82118C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF1DFB5-91F0-47CC-82C1-F5CEDF82118C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF1DFB5-91F0-47CC-82C1-F5CEDF82118C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
